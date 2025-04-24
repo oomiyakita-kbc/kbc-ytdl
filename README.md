@@ -8,7 +8,7 @@
 
 #### 使い方
 
-[指定のスプレッドシート](https://docs.google.com/spreadsheets/d/1k-l4X4NAUZPb5QQbytocC0qGIiY6cpOKIKoG3d707lQ/edit?gid=0#gid=0)上の適切な場所に URL を配置し、本ツールを実行します。
+[指定のスプレッドシート](https://docs.google.com/spreadsheets/d/1k-l4X4NAUZPb5QQbytocC0qGIiY6cpOKIKoG3d707lQ/edit?usp=sharing)上の適切な場所に URL を配置し、本ツールを実行します。
 
 1. 上記スプレッドシートを開く
 2. 「ダウンロード」シートを開く
