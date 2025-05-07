@@ -17,7 +17,7 @@
 
     - [Google Colab](https://colab.research.google.com/) を開く
     - 1 つ目のコードセルを実行する。
-        - `!pip install -q gspread oauth2client youtube-dl` を実行して、必要なライブラリをインストールする。
+        - 1,2行目を実行して、必要なライブラリをインストールする。
         - `drive.mount('/content/drive')` を実行して、Google Drive をマウントする。
         - `credentials = service_account.Credentials.from_service_account_file('/content/drive/MyDrive/KBC大宮北高校放送部/14.youtube-downloader/youtube-downloader-420717-fdc577ac7f2c.json')` を実行して、Google Drive の認証情報を取得する。
         - `service = googleapiclient.discovery.build('sheets', 'v4', credentials=credentials)` を実行して、Google Sheets API のサービスを作成する。
